@@ -1,6 +1,6 @@
 //SpanID variable is the element/text that will be replaced.
 var spanID = "wordscroller_span";
-var words = ["education", "change", "hope", "impact", "belief", "love"];
+var words = ["success.", "opportunity.", "change.", "health.", "well-being.", "equality.", "power.", "voice.", "freedom.", "imagination.", "empowerment."];
 
 var displayTimeInSeconds = 1;
 var animationSpeedInSeconds = 1;
